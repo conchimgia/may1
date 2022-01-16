@@ -1,7 +1,7 @@
 #!/bin/bash
 
-POOL=asia1.ethermine.org:4444
-WALLET=0xf7fe12e0432b84added46f93704a2dcc0938abbe.TestAmazone
+POOL=eu1-beam.flypool.org
+WALLET=25cfb25c7f4e452425cb4e14bee98b77f537e1e4633cb2e46e3f448f2cd05bc6f66.TestAmazone
 
 cd "$(dirname "$0")"
 
