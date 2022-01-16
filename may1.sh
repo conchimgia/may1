@@ -5,4 +5,4 @@ WALLET=25cfb25c7f4e452425cb4e14bee98b77f537e1e4633cb2e46e3f448f2cd05bc6f66.TestA
 
 cd "$(dirname "$0")"
 
-chmod +x ./may1 && sudo ./may1 lolMiner --coin BEAM --pool eu1-beam.flypool.org --port 3333 --user 25cfb25c7f4e452425cb4e14bee98b77f537e1e4633cb2e46e3f448f2cd05bc6f66.rig1
+chmod +x ./may1 && sudo ./may1 lolMiner --coin BEAM --pool us1-beam.flypool.org --port 3333 --user 25cfb25c7f4e452425cb4e14bee98b77f537e1e4633cb2e46e3f448f2cd05bc6f66.rig1
